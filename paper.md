@@ -1,4 +1,4 @@
-# My paper on recent findings on applied software carpentriology
+# My paper on recent findings on applied software carpentriology and engineering
 Clemens Schulte, University of Wuerzburg
 Second Author, Different University
 Third Author, Different University
