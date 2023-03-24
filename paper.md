@@ -1,4 +1,5 @@
 # My paper on recent findings on software carpentriology
+Clemens Schulte, University of Wuerzburg
 
 ## Abstract
 
