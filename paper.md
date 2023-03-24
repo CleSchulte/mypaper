@@ -1,6 +1,7 @@
 # My paper on recent findings on software carpentriology
 Clemens Schulte, University of Wuerzburg
 Second Author, Different University
+Third Author, Different University
 
 ## Abstract
 
